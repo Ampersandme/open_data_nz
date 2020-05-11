@@ -4,3 +4,7 @@
 /zipped
 /raw
 
+.env
+settings.json
+
+#requirements.txt
